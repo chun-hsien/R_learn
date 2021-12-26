@@ -3,7 +3,7 @@ tab:nice-tab
 prerequisites
 intro
 literature
-methods
+using-git-and-github
 math-example
 applications
 example-one

@@ -1,8 +1,16 @@
-# Methods
+# Using Git and Github
 
-We describe our methods in this chapter.
+在 /RepTemplates 資料夾下存放我的 Repository,
+每個Repository就包含1個 Project 建一個資料夾 hello
 
-Math can be added in body using usual syntax like this 
+git init 就是初始化hello這個資料夾
+```{bash}
+cd /home/son
+cd RepTemplates
+mkdir hello
+git init
+```
+
 
 ## math example
 
