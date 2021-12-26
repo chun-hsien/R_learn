@@ -4,8 +4,9 @@ prerequisites
 intro
 literature
 using-git-and-github
-math-example
-applications
+git-init
+git-status-查看目前狀態
+git-and-github
 example-one
 example-two
 final-words
